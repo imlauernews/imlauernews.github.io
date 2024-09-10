@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Imlauer</title>
+    <link>/categories/welcome/</link>
+    <description>Recent content in Welcome on Imlauer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenidos</title>
+      <link>/post/2024/08/03/bienvenidos/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/post/2024/08/03/bienvenidos/</guid>
+      <description>Bienvenidos sean, pronto estaré publicando más cosas.</description>
+    </item>
+  </channel>
+</rss>
