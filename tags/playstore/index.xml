@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Playstore on Imlauer</title>
+    <link>/tags/playstore/</link>
+    <description>Recent content in Playstore on Imlauer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Nov 2024 10:42:49 -0300</lastBuildDate>
+    <atom:link href="/tags/playstore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deshabilitar Google playstore</title>
+      <link>/deshabilitar_googleplaystore/</link>
+      <pubDate>Wed, 20 Nov 2024 10:42:49 -0300</pubDate>
+      <guid>/deshabilitar_googleplaystore/</guid>
+      <description>&lt;p&gt;Tenés que deshabilitar la play store 3 veces, deshabilitás 1 vez y aparece el ícono viejo, ahí lo deshabilitás otra vez y otra vez. Recién ahí se borra, y lo podés sustituir por aurora que lo descargas desde la fdroid.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
