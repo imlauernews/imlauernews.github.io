@@ -5,6 +5,12 @@
     <loc>/</loc>
     <lastmod>2024-12-10T18:35:53-03:00</lastmod>
   </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2024-12-10T18:35:53-03:00</lastmod>
+  </url><url>
+    <loc>/categories/plomeria/</loc>
+    <lastmod>2024-12-10T18:35:53-03:00</lastmod>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2024-12-10T18:35:53-03:00</lastmod>
   </url><url>
@@ -17,11 +23,14 @@
     <loc>/tags/</loc>
     <lastmod>2024-12-10T18:35:53-03:00</lastmod>
   </url><url>
-    <loc>/tags/pan/</loc>
+    <loc>/tags/comida/</loc>
     <lastmod>2024-12-01T12:30:06-03:00</lastmod>
   </url><url>
     <loc>/post/2024/12/01/panes-ituzaingo/</loc>
     <lastmod>2024-12-01T12:30:06-03:00</lastmod>
+  </url><url>
+    <loc>/categories/alzheimer/</loc>
+    <lastmod>2024-11-30T23:00:45-03:00</lastmod>
   </url><url>
     <loc>/post/2024/11/30/cosas-llevar/</loc>
     <lastmod>2024-11-30T23:00:45-03:00</lastmod>
@@ -32,10 +41,13 @@
     <loc>/post/2024/11/24/comprar-una-casa-o-alquilar/</loc>
     <lastmod>2024-11-24T10:59:40-03:00</lastmod>
   </url><url>
+    <loc>/categories/economia/</loc>
+    <lastmod>2024-11-24T10:59:40-03:00</lastmod>
+  </url><url>
     <loc>/tags/scam/</loc>
     <lastmod>2024-11-24T10:59:40-03:00</lastmod>
   </url><url>
-    <loc>/tags/comida/</loc>
+    <loc>/categories/comida/</loc>
     <lastmod>2024-11-24T08:50:58-03:00</lastmod>
   </url><url>
     <loc>/post/2024/11/24/comprar-costilla/</loc>
@@ -47,19 +59,25 @@
     <loc>/tags/playstore/</loc>
     <lastmod>2024-11-20T10:42:49-03:00</lastmod>
   </url><url>
+    <loc>/categories/tech/</loc>
+    <lastmod>2024-11-20T10:42:49-03:00</lastmod>
+  </url><url>
     <loc>/tags/aspiradora/</loc>
     <lastmod>2024-11-20T06:38:56-03:00</lastmod>
   </url><url>
     <loc>/post/2024/11/20/aspiradora-intento-de-arreglo/</loc>
     <lastmod>2024-11-20T06:38:56-03:00</lastmod>
   </url><url>
+    <loc>/categories/limpieza/</loc>
+    <lastmod>2024-11-20T06:38:56-03:00</lastmod>
+  </url><url>
+    <loc>/categories/aprendizaje/</loc>
+    <lastmod>2024-11-19T16:55:03-03:00</lastmod>
+  </url><url>
     <loc>/post/2024/11/19/learn-russian/</loc>
     <lastmod>2024-11-19T16:55:03-03:00</lastmod>
   </url><url>
     <loc>/post/2024/09/10/casi-me-la-creo/</loc>
-    <lastmod>2024-09-10T04:08:10-03:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
     <lastmod>2024-09-10T04:08:10-03:00</lastmod>
   </url><url>
     <loc>/tags/math/</loc>
@@ -72,9 +90,6 @@
     <lastmod>2024-09-10T02:57:55-03:00</lastmod>
   </url><url>
     <loc>/tags/limpieza/</loc>
-    <lastmod>2024-09-10T02:57:55-03:00</lastmod>
-  </url><url>
-    <loc>/categories/limpieza/</loc>
     <lastmod>2024-09-10T02:57:55-03:00</lastmod>
   </url><url>
     <loc>/post/2024/08/03/bienvenidos/</loc>
