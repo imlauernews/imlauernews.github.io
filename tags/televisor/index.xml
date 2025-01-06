@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Televisor on Imlauer</title>
+    <link>/tags/televisor/</link>
+    <description>Recent content in Televisor on Imlauer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 17:59:21 -0300</lastBuildDate>
+    <atom:link href="/tags/televisor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nos quedamos sin señal de canales</title>
+      <link>/post/2025/01/05/nos-quedamos-sin-se%C3%B1al-de-canales/</link>
+      <pubDate>Sun, 05 Jan 2025 17:59:21 -0300</pubDate>
+      <guid>/post/2025/01/05/nos-quedamos-sin-se%C3%B1al-de-canales/</guid>
+      <description>&lt;p&gt;Al parecer todos pasaron a HD o la antena dejó de funcionar.&#xA;El único que anda es el canal la Rioja: 30/11/2024.&lt;/p&gt;&#xA;&lt;p&gt;12187 Megahertz (12 GHertz) vertical 4790 kilociclo por segundo es la velocidad de los datos.&lt;/p&gt;&#xA;&lt;p&gt;Polarización vertical.&lt;/p&gt;&#xA;&lt;p&gt;En ese transporder hay muchos canales.&lt;/p&gt;&#xA;&lt;p&gt;En esa frecuencia le multiplicas por el generador que esta allá por el oscilador que está en el LNB (en la punta) y ahí le deja adentro del FI esa es la que decodifica el receptor. Todos los receptores decodifican la frecuencia intermedia.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

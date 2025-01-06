@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Dec 2024 10:23:49 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 17:59:21 -0300</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nos quedamos sin señal de canales</title>
+      <link>/post/2025/01/05/nos-quedamos-sin-se%C3%B1al-de-canales/</link>
+      <pubDate>Sun, 05 Jan 2025 17:59:21 -0300</pubDate>
+      <guid>/post/2025/01/05/nos-quedamos-sin-se%C3%B1al-de-canales/</guid>
+      <description>&lt;p&gt;Al parecer todos pasaron a HD o la antena dejó de funcionar.&#xA;El único que anda es el canal la Rioja: 30/11/2024.&lt;/p&gt;&#xA;&lt;p&gt;12187 Megahertz (12 GHertz) vertical 4790 kilociclo por segundo es la velocidad de los datos.&lt;/p&gt;&#xA;&lt;p&gt;Polarización vertical.&lt;/p&gt;&#xA;&lt;p&gt;En ese transporder hay muchos canales.&lt;/p&gt;&#xA;&lt;p&gt;En esa frecuencia le multiplicas por el generador que esta allá por el oscilador que está en el LNB (en la punta) y ahí le deja adentro del FI esa es la que decodifica el receptor. Todos los receptores decodifican la frecuencia intermedia.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Heladera no enfría: está sucia</title>
       <link>/post/2024/12/30/heladera-no-enfr%C3%ADa-est%C3%A1-sucia/</link>
@@ -34,7 +41,7 @@
       <link>/post/2024/11/30/cosas-llevar/</link>
       <pubDate>Sat, 30 Nov 2024 23:00:45 -0300</pubDate>
       <guid>/post/2024/11/30/cosas-llevar/</guid>
-      <description>&lt;p&gt;Tengo alzheimer.&lt;/p&gt;&#xA;&lt;p&gt;Apoyador de celular, netbook, celular, cargador de compu y celular, un cambio de ropa, guantes, desodorante, cepillo de dientes, playstation2, guitarra, parlante, cámara.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Tengo alzheimer.&lt;/p&gt;&#xA;&lt;p&gt;Apoyador de celular, netbook, celular, cargador de compu y celular, un cambio de ropa, guantes, desodorante, cepillo de dientes, playstation2, guitarra, parlante, cámara, prolongador, pendrive, protector bucal, cable cargador parlante extra. Remera?, esp32 wifi hacking XD,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comprar una casa o alquilar?</title>
