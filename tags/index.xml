@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 17:59:21 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 18:37:16 -0300</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reparacion</title>
+      <link>/tags/reparacion/</link>
+      <pubDate>Tue, 07 Jan 2025 18:37:16 -0300</pubDate>
+      <guid>/tags/reparacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Garrafa</title>
+      <link>/tags/garrafa/</link>
+      <pubDate>Tue, 07 Jan 2025 12:52:22 -0300</pubDate>
+      <guid>/tags/garrafa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fotocelda</title>
+      <link>/tags/fotocelda/</link>
+      <pubDate>Mon, 06 Jan 2025 19:55:42 -0300</pubDate>
+      <guid>/tags/fotocelda/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Televisor</title>
       <link>/tags/televisor/</link>
@@ -76,6 +97,13 @@
       <link>/tags/welcome/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       <guid>/tags/welcome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Horno</title>
+      <link>/tags/horno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/horno/</guid>
       <description></description>
     </item>
   </channel>
