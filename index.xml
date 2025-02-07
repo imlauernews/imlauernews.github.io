@@ -6,8 +6,15 @@
     <description>Recent content in Andres Imlauer on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Feb 2025 20:12:57 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 11:44:41 -0300</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Porton eléctrico manejado por Arduino</title>
+      <link>/porton/</link>
+      <pubDate>Fri, 07 Feb 2025 11:44:41 -0300</pubDate>
+      <guid>/porton/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://imlauera.github.io/controlar_porton_firebase/&#34;&gt;https://imlauera.github.io/controlar_porton_firebase/&lt;/a&gt; &lt;br&gt;&#xA;&lt;a href=&#34;https://imlauer.blogspot.com/2024/12/porton-electrico-cargador-de-celular.html&#34;&gt;https://imlauer.blogspot.com/2024/12/porton-electrico-cargador-de-celular.html&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Planchita no calienta: el enchufe sin continuidad</title>
       <link>/planchita_no_calienta/</link>
