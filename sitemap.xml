@@ -3,12 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
+    <lastmod>2025-02-15T22:10:10-03:00</lastmod>
+  </url><url>
+    <loc>/esp32_app_firebase/</loc>
+    <lastmod>2025-02-15T22:10:10-03:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2025-02-15T22:08:41-03:00</lastmod>
+  </url><url>
+    <loc>/post/2025/02/15/subir-cielo-raso-instalar-antena.-wifi./</loc>
+    <lastmod>2025-02-15T22:08:41-03:00</lastmod>
+  </url><url>
+    <loc>/post/2025/02/07/porton-el%C3%A9ctrico-manejado-por-arduino/</loc>
     <lastmod>2025-02-07T11:44:41-03:00</lastmod>
   </url><url>
-    <loc>/porton/</loc>
-    <lastmod>2025-02-07T11:44:41-03:00</lastmod>
-  </url><url>
-    <loc>/planchita_no_calienta/</loc>
+    <loc>/post/2025/02/02/planchita-no-calienta-el-enchufe-sin-continuidad/</loc>
     <lastmod>2025-02-02T20:12:57-03:00</lastmod>
   </url><url>
     <loc>/tags/reparacion/</loc>
@@ -21,9 +30,6 @@
     <lastmod>2025-02-02T13:37:28-03:00</lastmod>
   </url><url>
     <loc>/post/2025/02/02/pincho-ca%C3%B1o-agua-por-el-sol/</loc>
-    <lastmod>2025-02-02T13:37:28-03:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
     <lastmod>2025-02-02T13:37:28-03:00</lastmod>
   </url><url>
     <loc>/tags/garrafa/</loc>
