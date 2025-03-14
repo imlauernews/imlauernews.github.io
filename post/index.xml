@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2025 22:08:41 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 22:10:10 -0300</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Esp32 app firebase</title>
+      <link>/post/2025/02/15/esp32-app-firebase/</link>
+      <pubDate>Sat, 15 Feb 2025 22:10:10 -0300</pubDate>
+      <guid>/post/2025/02/15/esp32-app-firebase/</guid>
+      <description>&lt;p&gt;En mi blog principal hablé sobre esto:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://imlauer.blogspot.com/2025/02/esp32-dispara-relay-traves-app-firebase.html&#34;&gt;https://imlauer.blogspot.com/2025/02/esp32-dispara-relay-traves-app-firebase.html&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Subir cielo raso, instalar antena. WiFi.</title>
       <link>/post/2025/02/15/subir-cielo-raso-instalar-antena.-wifi./</link>

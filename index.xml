@@ -6,13 +6,20 @@
     <description>Recent content in Andres Imlauer on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2025 22:10:10 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 19:39:03 -0300</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Como cocinar Banana bunuelo</title>
+      <link>/banana_bunuelo/</link>
+      <pubDate>Fri, 14 Mar 2025 19:39:03 -0300</pubDate>
+      <guid>/banana_bunuelo/</guid>
+      <description>&lt;p&gt;harina comun, leudante, agua, sal 1 cucharadita al raz y azucar 1 cuchara de sopa media taza agua leche un chorrito, revolvé&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Esp32 app firebase</title>
-      <link>/esp32_app_firebase/</link>
+      <link>/post/2025/02/15/esp32-app-firebase/</link>
       <pubDate>Sat, 15 Feb 2025 22:10:10 -0300</pubDate>
-      <guid>/esp32_app_firebase/</guid>
+      <guid>/post/2025/02/15/esp32-app-firebase/</guid>
       <description>&lt;p&gt;En mi blog principal hablé sobre esto:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://imlauer.blogspot.com/2025/02/esp32-dispara-relay-traves-app-firebase.html&#34;&gt;https://imlauer.blogspot.com/2025/02/esp32-dispara-relay-traves-app-firebase.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
