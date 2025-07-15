@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Horno on Imlauer</title>
-    <link>/tags/horno/</link>
+    <link>//localhost:1313/tags/horno/</link>
     <description>Recent content in Horno on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/tags/horno/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/horno/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Horno Eléctrico</title>
-      <link>/post/1/01/01/horno-el%C3%A9ctrico/</link>
+      <link>//localhost:1313/post/1/01/01/horno-el%C3%A9ctrico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/1/01/01/horno-el%C3%A9ctrico/</guid>
+      <guid>//localhost:1313/post/1/01/01/horno-el%C3%A9ctrico/</guid>
       <description>&lt;h4 id=&#34;video-en-youtube&#34;&gt;Video en YouTube&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LFUrBPmHH9g&#34;&gt;https://www.youtube.com/watch?v=LFUrBPmHH9g&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

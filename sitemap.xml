@@ -2,199 +2,202 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-07-15T11:12:10-03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2025/07/15/george-hotz-ranting/</loc>
+    <lastmod>2025-07-15T11:12:10-03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/</loc>
+    <lastmod>2025-07-15T11:12:10-03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/banana_bunuelo/</loc>
     <lastmod>2025-03-14T19:39:03-03:00</lastmod>
   </url><url>
-    <loc>/banana_bunuelo/</loc>
-    <lastmod>2025-03-14T19:39:03-03:00</lastmod>
-  </url><url>
-    <loc>/post/2025/02/15/esp32-app-firebase/</loc>
+    <loc>//localhost:1313/post/2025/02/15/esp32-app-firebase/</loc>
     <lastmod>2025-02-15T22:10:10-03:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2025-02-15T22:10:10-03:00</lastmod>
-  </url><url>
-    <loc>/post/2025/02/15/subir-cielo-raso-instalar-antena.-wifi./</loc>
+    <loc>//localhost:1313/post/2025/02/15/subir-cielo-raso-instalar-antena.-wifi./</loc>
     <lastmod>2025-02-15T22:08:41-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/02/07/porton-el%C3%A9ctrico-manejado-por-arduino/</loc>
+    <loc>//localhost:1313/post/2025/02/07/porton-el%C3%A9ctrico-manejado-por-arduino/</loc>
     <lastmod>2025-02-07T11:44:41-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/02/02/planchita-no-calienta-el-enchufe-sin-continuidad/</loc>
+    <loc>//localhost:1313/post/2025/02/02/planchita-no-calienta-el-enchufe-sin-continuidad/</loc>
     <lastmod>2025-02-02T20:12:57-03:00</lastmod>
   </url><url>
-    <loc>/tags/reparacion/</loc>
+    <loc>//localhost:1313/tags/reparacion/</loc>
     <lastmod>2025-02-02T20:12:57-03:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-02-02T20:12:57-03:00</lastmod>
   </url><url>
-    <loc>/tags/ca%C3%B1o/</loc>
+    <loc>//localhost:1313/tags/ca%C3%B1o/</loc>
     <lastmod>2025-02-02T13:37:28-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/02/02/pincho-ca%C3%B1o-agua-por-el-sol/</loc>
+    <loc>//localhost:1313/post/2025/02/02/pincho-ca%C3%B1o-agua-por-el-sol/</loc>
     <lastmod>2025-02-02T13:37:28-03:00</lastmod>
   </url><url>
-    <loc>/tags/garrafa/</loc>
+    <loc>//localhost:1313/tags/garrafa/</loc>
     <lastmod>2025-01-30T11:10:33-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/30/garrafa-cambio/</loc>
+    <loc>//localhost:1313/post/2025/01/30/garrafa-cambio/</loc>
     <lastmod>2025-01-30T11:10:33-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/24/bajar-temperatura/</loc>
+    <loc>//localhost:1313/post/2025/01/24/bajar-temperatura/</loc>
     <lastmod>2025-01-24T10:25:54-03:00</lastmod>
   </url><url>
-    <loc>/tags/temperatura/</loc>
+    <loc>//localhost:1313/tags/temperatura/</loc>
     <lastmod>2025-01-24T10:25:54-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/23/intento-de-arreglar-orrin-del-chupa-arena/</loc>
+    <loc>//localhost:1313/post/2025/01/23/intento-de-arreglar-orrin-del-chupa-arena/</loc>
     <lastmod>2025-01-23T11:47:48-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/23/parabolica-ajustar/</loc>
+    <loc>//localhost:1313/post/2025/01/23/parabolica-ajustar/</loc>
     <lastmod>2025-01-23T11:43:50-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/23/asado/</loc>
+    <loc>//localhost:1313/post/2025/01/23/asado/</loc>
     <lastmod>2025-01-23T11:43:36-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/23/carton-auto/</loc>
+    <loc>//localhost:1313/post/2025/01/23/carton-auto/</loc>
     <lastmod>2025-01-23T11:43:33-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/12/cae-agua-techo-casa-itu/</loc>
+    <loc>//localhost:1313/post/2025/01/12/cae-agua-techo-casa-itu/</loc>
     <lastmod>2025-01-12T20:18:59-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/12/etiquetas-aires/</loc>
+    <loc>//localhost:1313/post/2025/01/12/etiquetas-aires/</loc>
     <lastmod>2025-01-12T20:15:41-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/12/radio-de-un-auto-usada-externamente/</loc>
+    <loc>//localhost:1313/post/2025/01/12/radio-de-un-auto-usada-externamente/</loc>
     <lastmod>2025-01-12T20:15:13-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/12/salto-disyuntor-de-la-casa-lavando-autos/</loc>
+    <loc>//localhost:1313/post/2025/01/12/salto-disyuntor-de-la-casa-lavando-autos/</loc>
     <lastmod>2025-01-12T20:11:30-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/07/recargar-bateria/</loc>
+    <loc>//localhost:1313/post/2025/01/07/recargar-bateria/</loc>
     <lastmod>2025-01-07T18:49:37-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/07/reparar-parlante-fernando/</loc>
+    <loc>//localhost:1313/post/2025/01/07/reparar-parlante-fernando/</loc>
     <lastmod>2025-01-07T18:37:16-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/07/reparar-apoya-brazos-de-silla-con-madera/</loc>
+    <loc>//localhost:1313/post/2025/01/07/reparar-apoya-brazos-de-silla-con-madera/</loc>
     <lastmod>2025-01-07T18:37:03-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/07/cambio-garrafa-itu/</loc>
+    <loc>//localhost:1313/post/2025/01/07/cambio-garrafa-itu/</loc>
     <lastmod>2025-01-07T12:52:22-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/06/fotocelda/</loc>
+    <loc>//localhost:1313/post/2025/01/06/fotocelda/</loc>
     <lastmod>2025-01-06T19:55:42-03:00</lastmod>
   </url><url>
-    <loc>/tags/fotocelda/</loc>
+    <loc>//localhost:1313/tags/fotocelda/</loc>
     <lastmod>2025-01-06T19:55:42-03:00</lastmod>
   </url><url>
-    <loc>/post/2025/01/05/nos-quedamos-sin-se%C3%B1al-de-canales/</loc>
+    <loc>//localhost:1313/post/2025/01/05/nos-quedamos-sin-se%C3%B1al-de-canales/</loc>
     <lastmod>2025-01-05T17:59:21-03:00</lastmod>
   </url><url>
-    <loc>/tags/televisor/</loc>
+    <loc>//localhost:1313/tags/televisor/</loc>
     <lastmod>2025-01-05T17:59:21-03:00</lastmod>
   </url><url>
-    <loc>/post/2024/12/30/heladera-no-enfr%C3%ADa-est%C3%A1-sucia/</loc>
+    <loc>//localhost:1313/post/2024/12/30/heladera-no-enfr%C3%ADa-est%C3%A1-sucia/</loc>
     <lastmod>2024-12-30T10:23:49-03:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2024-12-10T18:35:53-03:00</lastmod>
   </url><url>
-    <loc>/categories/plomeria/</loc>
+    <loc>//localhost:1313/categories/plomeria/</loc>
     <lastmod>2024-12-10T18:35:53-03:00</lastmod>
   </url><url>
-    <loc>/tags/rellenar/</loc>
+    <loc>//localhost:1313/tags/rellenar/</loc>
     <lastmod>2024-12-10T18:35:53-03:00</lastmod>
   </url><url>
-    <loc>/post/2024/12/10/rellenar-hueco/</loc>
+    <loc>//localhost:1313/post/2024/12/10/rellenar-hueco/</loc>
     <lastmod>2024-12-10T18:35:53-03:00</lastmod>
   </url><url>
-    <loc>/tags/comida/</loc>
+    <loc>//localhost:1313/tags/comida/</loc>
     <lastmod>2024-12-01T12:30:06-03:00</lastmod>
   </url><url>
-    <loc>/post/2024/12/01/panes-ituzaingo/</loc>
+    <loc>//localhost:1313/post/2024/12/01/panes-ituzaingo/</loc>
     <lastmod>2024-12-01T12:30:06-03:00</lastmod>
   </url><url>
-    <loc>/categories/alzheimer/</loc>
+    <loc>//localhost:1313/categories/alzheimer/</loc>
     <lastmod>2024-11-30T23:00:45-03:00</lastmod>
   </url><url>
-    <loc>/post/2024/11/30/cosas-llevar/</loc>
+    <loc>//localhost:1313/post/2024/11/30/cosas-llevar/</loc>
     <lastmod>2024-11-30T23:00:45-03:00</lastmod>
   </url><url>
-    <loc>/tags/llevar/</loc>
+    <loc>//localhost:1313/tags/llevar/</loc>
     <lastmod>2024-11-30T23:00:45-03:00</lastmod>
   </url><url>
-    <loc>/post/2024/11/24/comprar-una-casa-o-alquilar/</loc>
+    <loc>//localhost:1313/post/2024/11/24/comprar-una-casa-o-alquilar/</loc>
     <lastmod>2024-11-24T10:59:40-03:00</lastmod>
   </url><url>
-    <loc>/categories/economia/</loc>
+    <loc>//localhost:1313/categories/economia/</loc>
     <lastmod>2024-11-24T10:59:40-03:00</lastmod>
   </url><url>
-    <loc>/tags/scam/</loc>
+    <loc>//localhost:1313/tags/scam/</loc>
     <lastmod>2024-11-24T10:59:40-03:00</lastmod>
   </url><url>
-    <loc>/categories/comida/</loc>
+    <loc>//localhost:1313/categories/comida/</loc>
     <lastmod>2024-11-24T08:50:58-03:00</lastmod>
   </url><url>
-    <loc>/post/2024/11/24/comprar-costilla/</loc>
+    <loc>//localhost:1313/post/2024/11/24/comprar-costilla/</loc>
     <lastmod>2024-11-24T08:50:58-03:00</lastmod>
   </url><url>
-    <loc>/post/2024/11/20/deshabilitar-google-playstore/</loc>
+    <loc>//localhost:1313/post/2024/11/20/deshabilitar-google-playstore/</loc>
     <lastmod>2024-11-20T10:42:49-03:00</lastmod>
   </url><url>
-    <loc>/tags/playstore/</loc>
+    <loc>//localhost:1313/tags/playstore/</loc>
     <lastmod>2024-11-20T10:42:49-03:00</lastmod>
   </url><url>
-    <loc>/categories/tech/</loc>
+    <loc>//localhost:1313/categories/tech/</loc>
     <lastmod>2024-11-20T10:42:49-03:00</lastmod>
   </url><url>
-    <loc>/tags/aspiradora/</loc>
+    <loc>//localhost:1313/tags/aspiradora/</loc>
     <lastmod>2024-11-20T06:38:56-03:00</lastmod>
   </url><url>
-    <loc>/post/2024/11/20/aspiradora-intento-de-arreglo/</loc>
+    <loc>//localhost:1313/post/2024/11/20/aspiradora-intento-de-arreglo/</loc>
     <lastmod>2024-11-20T06:38:56-03:00</lastmod>
   </url><url>
-    <loc>/categories/limpieza/</loc>
+    <loc>//localhost:1313/categories/limpieza/</loc>
     <lastmod>2024-11-20T06:38:56-03:00</lastmod>
   </url><url>
-    <loc>/post/2024/11/20/documentos-llevar/</loc>
+    <loc>//localhost:1313/post/2024/11/20/documentos-llevar/</loc>
     <lastmod>2024-11-20T06:04:06-03:00</lastmod>
   </url><url>
-    <loc>/categories/aprendizaje/</loc>
+    <loc>//localhost:1313/categories/aprendizaje/</loc>
     <lastmod>2024-11-19T16:55:03-03:00</lastmod>
   </url><url>
-    <loc>/post/2024/11/19/learn-russian/</loc>
+    <loc>//localhost:1313/post/2024/11/19/learn-russian/</loc>
     <lastmod>2024-11-19T16:55:03-03:00</lastmod>
   </url><url>
-    <loc>/post/2024/09/10/casi-me-la-creo/</loc>
+    <loc>//localhost:1313/post/2024/09/10/casi-me-la-creo/</loc>
     <lastmod>2024-09-10T04:08:10-03:00</lastmod>
   </url><url>
-    <loc>/categories/math/</loc>
+    <loc>//localhost:1313/categories/math/</loc>
     <lastmod>2024-09-10T04:08:10-03:00</lastmod>
   </url><url>
-    <loc>/tags/math/</loc>
+    <loc>//localhost:1313/tags/math/</loc>
     <lastmod>2024-09-10T04:08:10-03:00</lastmod>
   </url><url>
-    <loc>/post/2024/09/10/destapando-ca%C3%B1os/</loc>
+    <loc>//localhost:1313/post/2024/09/10/destapando-ca%C3%B1os/</loc>
     <lastmod>2024-09-10T02:57:55-03:00</lastmod>
   </url><url>
-    <loc>/tags/limpieza/</loc>
+    <loc>//localhost:1313/tags/limpieza/</loc>
     <lastmod>2024-09-10T02:57:55-03:00</lastmod>
   </url><url>
-    <loc>/post/2024/08/03/bienvenidos/</loc>
+    <loc>//localhost:1313/post/2024/08/03/bienvenidos/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/welcome/</loc>
+    <loc>//localhost:1313/categories/welcome/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/welcome/</loc>
+    <loc>//localhost:1313/tags/welcome/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>/tags/horno/</loc>
+    <loc>//localhost:1313/tags/horno/</loc>
   </url><url>
-    <loc>/post/1/01/01/horno-el%C3%A9ctrico/</loc>
+    <loc>//localhost:1313/post/1/01/01/horno-el%C3%A9ctrico/</loc>
   </url>
 </urlset>

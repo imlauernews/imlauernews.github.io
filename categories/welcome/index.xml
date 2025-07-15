@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on Imlauer</title>
-    <link>/categories/welcome/</link>
+    <link>//localhost:1313/categories/welcome/</link>
     <description>Recent content in Welcome on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/welcome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenidos</title>
-      <link>/post/2024/08/03/bienvenidos/</link>
+      <link>//localhost:1313/post/2024/08/03/bienvenidos/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/08/03/bienvenidos/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/me_playa.png&#34; alt=&#34;Mi cara&#34;&gt;&#xA;Bienvenidos sean, pronto estaré publicando más cosas.&lt;/p&gt;</description>
+      <guid>//localhost:1313/post/2024/08/03/bienvenidos/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/me_playa.png&#34; alt=&#34;Mi cara&#34;&gt;&#xA;Bienvenidos sean, pronto estaré publicando más cosas.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

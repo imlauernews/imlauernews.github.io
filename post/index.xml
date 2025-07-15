@@ -2,255 +2,262 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Imlauer</title>
-    <link>/post/</link>
+    <link>//localhost:1313/post/</link>
     <description>Recent content in Posts on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2025 22:10:10 -0300</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Jul 2025 11:12:10 -0300</lastBuildDate>
+    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>George Hotz ranting</title>
+      <link>//localhost:1313/post/2025/07/15/george-hotz-ranting/</link>
+      <pubDate>Tue, 15 Jul 2025 11:12:10 -0300</pubDate>
+      <guid>//localhost:1313/post/2025/07/15/george-hotz-ranting/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdmarU7KisByoq3A9U7IGm9b4UgVAQy_aFCsuMGHl4k1m_dhVx2jFj8YhJHElM-4BRzYnNbT-rP9PWtHDChSZv13rLi676Z_nr-n5Lsqmt9Cni-R7rvY93nHoe5R8KHHpV7EuSAEu6E0_492ORObNYFsyLN-jZLcR4pPF-um30Q6yBibjtqGjMagROwmp9/s320/Screenshot%202025-07-11%20at%2019-45-23%20Activity%20George%20Hotz%20LinkedIn.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Esp32 app firebase</title>
-      <link>/post/2025/02/15/esp32-app-firebase/</link>
+      <link>//localhost:1313/post/2025/02/15/esp32-app-firebase/</link>
       <pubDate>Sat, 15 Feb 2025 22:10:10 -0300</pubDate>
-      <guid>/post/2025/02/15/esp32-app-firebase/</guid>
+      <guid>//localhost:1313/post/2025/02/15/esp32-app-firebase/</guid>
       <description>&lt;p&gt;En mi blog principal hablé sobre esto:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://imlauer.blogspot.com/2025/02/esp32-dispara-relay-traves-app-firebase.html&#34;&gt;https://imlauer.blogspot.com/2025/02/esp32-dispara-relay-traves-app-firebase.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Subir cielo raso, instalar antena. WiFi.</title>
-      <link>/post/2025/02/15/subir-cielo-raso-instalar-antena.-wifi./</link>
+      <link>//localhost:1313/post/2025/02/15/subir-cielo-raso-instalar-antena.-wifi./</link>
       <pubDate>Sat, 15 Feb 2025 22:08:41 -0300</pubDate>
-      <guid>/post/2025/02/15/subir-cielo-raso-instalar-antena.-wifi./</guid>
+      <guid>//localhost:1313/post/2025/02/15/subir-cielo-raso-instalar-antena.-wifi./</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://imlauer.blogspot.com/2025/02/subir-cielo-raso-cambiamos-ubicacion.html&#34;&gt;https://imlauer.blogspot.com/2025/02/subir-cielo-raso-cambiamos-ubicacion.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Porton eléctrico manejado por Arduino</title>
-      <link>/post/2025/02/07/porton-el%C3%A9ctrico-manejado-por-arduino/</link>
+      <link>//localhost:1313/post/2025/02/07/porton-el%C3%A9ctrico-manejado-por-arduino/</link>
       <pubDate>Fri, 07 Feb 2025 11:44:41 -0300</pubDate>
-      <guid>/post/2025/02/07/porton-el%C3%A9ctrico-manejado-por-arduino/</guid>
+      <guid>//localhost:1313/post/2025/02/07/porton-el%C3%A9ctrico-manejado-por-arduino/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://imlauera.github.io/controlar_porton_firebase/&#34;&gt;https://imlauera.github.io/controlar_porton_firebase/&lt;/a&gt; &lt;br&gt;&#xA;&lt;a href=&#34;https://imlauer.blogspot.com/2024/12/porton-electrico-cargador-de-celular.html&#34;&gt;https://imlauer.blogspot.com/2024/12/porton-electrico-cargador-de-celular.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Planchita no calienta: el enchufe sin continuidad</title>
-      <link>/post/2025/02/02/planchita-no-calienta-el-enchufe-sin-continuidad/</link>
+      <link>//localhost:1313/post/2025/02/02/planchita-no-calienta-el-enchufe-sin-continuidad/</link>
       <pubDate>Sun, 02 Feb 2025 20:12:57 -0300</pubDate>
-      <guid>/post/2025/02/02/planchita-no-calienta-el-enchufe-sin-continuidad/</guid>
+      <guid>//localhost:1313/post/2025/02/02/planchita-no-calienta-el-enchufe-sin-continuidad/</guid>
       <description>&lt;p&gt;El enchufe no daba continuidad con el tester, hay que cambiar el enchufe.&#xA;Se cagó el cable porque ella enchufa y por el peso.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YMa6QQm9KFA&#34;&gt;https://www.youtube.com/watch?v=YMa6QQm9KFA&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pincho caño agua por el sol</title>
-      <link>/post/2025/02/02/pincho-ca%C3%B1o-agua-por-el-sol/</link>
+      <link>//localhost:1313/post/2025/02/02/pincho-ca%C3%B1o-agua-por-el-sol/</link>
       <pubDate>Sun, 02 Feb 2025 13:37:28 -0300</pubDate>
-      <guid>/post/2025/02/02/pincho-ca%C3%B1o-agua-por-el-sol/</guid>
+      <guid>//localhost:1313/post/2025/02/02/pincho-ca%C3%B1o-agua-por-el-sol/</guid>
       <description>&lt;p&gt;fotos&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://imlauer.blogspot.com/2025/02/cao-pinchado-reparacion.html&#34;&gt;https://imlauer.blogspot.com/2025/02/cao-pinchado-reparacion.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Garrafa cambio</title>
-      <link>/post/2025/01/30/garrafa-cambio/</link>
+      <link>//localhost:1313/post/2025/01/30/garrafa-cambio/</link>
       <pubDate>Thu, 30 Jan 2025 11:10:33 -0300</pubDate>
-      <guid>/post/2025/01/30/garrafa-cambio/</guid>
+      <guid>//localhost:1313/post/2025/01/30/garrafa-cambio/</guid>
       <description>&lt;p&gt;Te enseñamos como cambiar garrafa.&lt;/p&gt;&#xA;&lt;h4 id=&#34;youtube&#34;&gt;YouTube:&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7bPoh7zbkmU&#34;&gt;https://www.youtube.com/watch?v=7bPoh7zbkmU&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bajar Temperatura</title>
-      <link>/post/2025/01/24/bajar-temperatura/</link>
+      <link>//localhost:1313/post/2025/01/24/bajar-temperatura/</link>
       <pubDate>Fri, 24 Jan 2025 10:25:54 -0300</pubDate>
-      <guid>/post/2025/01/24/bajar-temperatura/</guid>
+      <guid>//localhost:1313/post/2025/01/24/bajar-temperatura/</guid>
       <description>&lt;p&gt;Chapa de sin, es lo que mas rápido se calienta y se enfría.&lt;/p&gt;&#xA;&lt;p&gt;bajar la temperatura poner otro techo y poner todo de verde y poner algo que le de sombra, un techo alto y que esté cerrado que tape como una sombrilla por más que el sol vaya cambiando, no puede ser algo débil porque el viento lo tumba hace todo una estructura y le pones media sombra, pero tenes que cambiar&#xA;cada 2 años le ponen un parasol a toda la pared algunas personas&lt;/p&gt;</description>
     </item>
     <item>
       <title>Intento de arreglar orrin del &#34;chupa arena&#34;</title>
-      <link>/post/2025/01/23/intento-de-arreglar-orrin-del-chupa-arena/</link>
+      <link>//localhost:1313/post/2025/01/23/intento-de-arreglar-orrin-del-chupa-arena/</link>
       <pubDate>Thu, 23 Jan 2025 11:47:48 -0300</pubDate>
-      <guid>/post/2025/01/23/intento-de-arreglar-orrin-del-chupa-arena/</guid>
+      <guid>//localhost:1313/post/2025/01/23/intento-de-arreglar-orrin-del-chupa-arena/</guid>
       <description>&lt;p&gt;Son una berretada los de ahora.&lt;/p&gt;&#xA;&lt;p&gt;Se pone 2 caños uno fuera otro adentro y ahi anda bien, no hace falta todas esa boludeces hicieron un piston un palo finito, todo empezó con 2 caños de PBC. Eso gasta menos caño. 2 caños y arriba un tapón porque todo el caño era pegado ahora le ponen un cosito porque el caño es hueco. Ahora hacen todo el marketing con la manija, es más caro y menos duradero.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Parabolica ajustar</title>
-      <link>/post/2025/01/23/parabolica-ajustar/</link>
+      <link>//localhost:1313/post/2025/01/23/parabolica-ajustar/</link>
       <pubDate>Thu, 23 Jan 2025 11:43:50 -0300</pubDate>
-      <guid>/post/2025/01/23/parabolica-ajustar/</guid>
+      <guid>//localhost:1313/post/2025/01/23/parabolica-ajustar/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://imlauer.blogspot.com/2025/01/antena-parabolica-y-asado.html&#34;&gt;https://imlauer.blogspot.com/2025/01/antena-parabolica-y-asado.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Asado</title>
-      <link>/post/2025/01/23/asado/</link>
+      <link>//localhost:1313/post/2025/01/23/asado/</link>
       <pubDate>Thu, 23 Jan 2025 11:43:36 -0300</pubDate>
-      <guid>/post/2025/01/23/asado/</guid>
+      <guid>//localhost:1313/post/2025/01/23/asado/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://imlauer.blogspot.com/2025/01/antena-parabolica-y-asado.html&#34;&gt;https://imlauer.blogspot.com/2025/01/antena-parabolica-y-asado.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Carton auto</title>
-      <link>/post/2025/01/23/carton-auto/</link>
+      <link>//localhost:1313/post/2025/01/23/carton-auto/</link>
       <pubDate>Thu, 23 Jan 2025 11:43:33 -0300</pubDate>
-      <guid>/post/2025/01/23/carton-auto/</guid>
+      <guid>//localhost:1313/post/2025/01/23/carton-auto/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://imlauer.blogspot.com/2025/01/tapamos-auto-carton.html&#34;&gt;https://imlauer.blogspot.com/2025/01/tapamos-auto-carton.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cae agua techo casa Itu</title>
-      <link>/post/2025/01/12/cae-agua-techo-casa-itu/</link>
+      <link>//localhost:1313/post/2025/01/12/cae-agua-techo-casa-itu/</link>
       <pubDate>Sun, 12 Jan 2025 20:18:59 -0300</pubDate>
-      <guid>/post/2025/01/12/cae-agua-techo-casa-itu/</guid>
+      <guid>//localhost:1313/post/2025/01/12/cae-agua-techo-casa-itu/</guid>
       <description>&lt;p&gt;Hay que poner plástico en donde se juntan los dos caños.&lt;/p&gt;&#xA;&lt;p&gt;Hay papel con fibra de vidrio en el techo, y en algunos lugares en donde cae agua en donde entran los caños. Baja el caño entonces cuando llueve mucho viene el agua por el caño y gotea pero gotea pocoo entonces yo puse unos plásticos que haga como un plato, entonces esa poca agua que cae que no moje la madera. Son dos gotas, es un plástico y madera a los costados (una bolsa grande entre las maderas). Cuando cae ahí quedará el agua en la bolsa y luego el agua se va a evaporar que no moje la madera.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Etiquetas aires</title>
-      <link>/post/2025/01/12/etiquetas-aires/</link>
+      <link>//localhost:1313/post/2025/01/12/etiquetas-aires/</link>
       <pubDate>Sun, 12 Jan 2025 20:15:41 -0300</pubDate>
-      <guid>/post/2025/01/12/etiquetas-aires/</guid>
+      <guid>//localhost:1313/post/2025/01/12/etiquetas-aires/</guid>
       <description>&lt;p&gt;Medimos con una pinza amperométrica y ninguna daba el amperage que decía la etiqueta.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh9psk1Z2nrSf8gER9lRtdZMOBJ03lH2nhG80EKLYga_9wgMiTRQbndA28ORne_flifq_XaTAbae98a1uyCEXXIQEpdAOLo5BnTLnycHxvf5wV5JVIdVm_XPyjGkudeKzH2RP7vTxICvAUPSX1Jw-y0ttpHk_bbZpjf5_IutU2HwC_HkUNvU4OpClRUeY/s4160/IMG_20250104_160749178.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg9-1zlBsCn2d8M9bholvfRHWvSy5_3leBwnEX4B-6pkUz6lIGepI2crXAFDzuh0bdCVuqtKfOyH8JIx-SN3KxWdHEqhZnyDaaifMceERfHO9AuudiXs_K3ITPSgbFTEMPEauIFlN3e5x6Ix-8hAlMHRn6rg-cIaNfETLoYdNXglu6I9XUo4c0aRGdkGs/s4160/IMG_20250104_160729899.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Radio de un auto usada externamente</title>
-      <link>/post/2025/01/12/radio-de-un-auto-usada-externamente/</link>
+      <link>//localhost:1313/post/2025/01/12/radio-de-un-auto-usada-externamente/</link>
       <pubDate>Sun, 12 Jan 2025 20:15:13 -0300</pubDate>
-      <guid>/post/2025/01/12/radio-de-un-auto-usada-externamente/</guid>
+      <guid>//localhost:1313/post/2025/01/12/radio-de-un-auto-usada-externamente/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3hhvuzOp3CiJ_WsoFWiYtRiP5Ky-TWr7zycAFly675yhz-OmTjdUpjfF6VG2ZZwauhPH9mKKTaigAlmQ3B5mCMtmzt-Pw8gtKTH5QnxeTGQVUnqYYL4NRGAQAN6AHPcxDWtiDvnjmg9IK1a3GmEu3bbiBsN7wRwGm5pnZ_ehxRZn1Xu8mNsDtVV-T_aM/s4160/IMG_20250104_164617100.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Salto disyuntor de la casa lavando autos</title>
-      <link>/post/2025/01/12/salto-disyuntor-de-la-casa-lavando-autos/</link>
+      <link>//localhost:1313/post/2025/01/12/salto-disyuntor-de-la-casa-lavando-autos/</link>
       <pubDate>Sun, 12 Jan 2025 20:11:30 -0300</pubDate>
-      <guid>/post/2025/01/12/salto-disyuntor-de-la-casa-lavando-autos/</guid>
+      <guid>//localhost:1313/post/2025/01/12/salto-disyuntor-de-la-casa-lavando-autos/</guid>
       <description>&lt;p&gt;Primero pensamos que había entrado agua dentro del enchufe, luego sospechamos de algún cable derretido, al final resultó ser que entró agua pero en el interruptor de la luz.&lt;/p&gt;&#xA;&lt;p&gt;Recomendación poné una cinta en el enchufe. Hay que usar manguera verde.&#xA;La recomendación es siempre tener cuidado porque luego arreglar, todo el mundo se iba a paraguay a arreglar los autos, le metían agua por todos lados a la suspensión y rompían la electrónica y no arrancaba más el auto y tu auto quedaba en paraguay, tenías que traer remolcado. Tenías que dejar el auto en la calle porque ya no arrancaba más. Todo allá era barato cargá nafta y mandá a lavar el auto, luego tenías que traer tu auto remolcado, y en el puente tenías que pedir permiso porque no te dejaban remolcar, esa era la jodita de lavar barato. Yo nunca lavé. Luego los paraguayos se avivaron ponían una bolsa en la parte electrónica, por más que creas que no pasa nada.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Recargar bateria</title>
-      <link>/post/2025/01/07/recargar-bateria/</link>
+      <link>//localhost:1313/post/2025/01/07/recargar-bateria/</link>
       <pubDate>Tue, 07 Jan 2025 18:49:37 -0300</pubDate>
-      <guid>/post/2025/01/07/recargar-bateria/</guid>
+      <guid>//localhost:1313/post/2025/01/07/recargar-bateria/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXetJFXrkENykMhn1IXdhyLS1S4RtaaZlvL8QIRkQ8YuGn2dKO_1HKY8L5z9Xs2wuRrZQ-G59WkgfH3eZwFXg7r5QH7snZXIXVf-W5W3nuB7ERyNokb5x5-alzeCC0eFrW79SttDAOytaHVq00LvDXXBBg9NDCfFJ79LGLN8zM-6RlqS25Jid0OaDYayM/s4160/IMG_20241219_071304218.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0_CXOYVUIeiKZ4sQunogN9PQa_2R4zhtbJIwfthKZnPBe80JkHgFquIAUcLdZS5XJ7x2zLbL3NJffnrLNL6-8_zaWVdR-LRYyT962xrfHu8JEQCCQN-j-b3RUmnJgwDwQe_ApGIGJjWQs93XOIskrBEVj4VuzH81Z2Hc2PWP_obxBcP0_aLIGIs478hM/s4160/IMG_20241219_071300064.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW7PWClYMYlsHbmkObW_F9b2FX6AoiXa21lgK1SyUXocwHiXpnqCVQaFFsey57lTmozlqjrt_1jYiXqaaUiSz9DY6ha12byXtM5Pk59STUkEmmb0cwkxhQTyVyvRcludxRyo27giN7dCsRQC_6_VYsEruiw7zxoemp33ZY1cHeTXq8b1gK4zLm1dla0v0/s4160/IMG_20241219_071254359.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reparar parlante Fernando</title>
-      <link>/post/2025/01/07/reparar-parlante-fernando/</link>
+      <link>//localhost:1313/post/2025/01/07/reparar-parlante-fernando/</link>
       <pubDate>Tue, 07 Jan 2025 18:37:16 -0300</pubDate>
-      <guid>/post/2025/01/07/reparar-parlante-fernando/</guid>
+      <guid>//localhost:1313/post/2025/01/07/reparar-parlante-fernando/</guid>
       <description>&lt;p&gt;Había que desarmar todo, lo más complicado era desarmar.&#xA;No anda la batería no tira los 5 voltios. Sacó la batería y midió que era de 5 voltios, hay que cambiar por otra batería.&lt;/p&gt;&#xA;&lt;p&gt;La que tiene es 1000 miliamper, hay una que dice que tiene 7 mil miliamper y vale 4000 pesos y sospecho que es mentira por el tamañoo, y hay una un poco más grande tiene 4000 vatios y vale 7000 pesos empieza con N. Porque esta es 1000 vatios y vale 4000 pesos, y hay otra que es más barata y vale 7000 miliamper(mA) y es mentira.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reparar apoya brazos de silla con madera</title>
-      <link>/post/2025/01/07/reparar-apoya-brazos-de-silla-con-madera/</link>
+      <link>//localhost:1313/post/2025/01/07/reparar-apoya-brazos-de-silla-con-madera/</link>
       <pubDate>Tue, 07 Jan 2025 18:37:03 -0300</pubDate>
-      <guid>/post/2025/01/07/reparar-apoya-brazos-de-silla-con-madera/</guid>
+      <guid>//localhost:1313/post/2025/01/07/reparar-apoya-brazos-de-silla-con-madera/</guid>
       <description>&lt;p&gt;Hacer huecos, medir, marcar con birome, puso un par de tornillos y salió andando.&#xA;Abajo estaba toda rota la cinta. Hay que pintar con pintura anti oxido.&lt;/p&gt;&#xA;&lt;h3 id=&#34;video-en-youtube&#34;&gt;Video en YouTube&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5mPBu4TbSGo&#34;&gt;https://www.youtube.com/watch?v=5mPBu4TbSGo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;video-en-invidious&#34;&gt;Video en Invidious&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://redirect.invidious.io/watch?v=5mPBu4TbSGo&#34;&gt;https://redirect.invidious.io/watch?v=5mPBu4TbSGo&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cambio garrafa itu</title>
-      <link>/post/2025/01/07/cambio-garrafa-itu/</link>
+      <link>//localhost:1313/post/2025/01/07/cambio-garrafa-itu/</link>
       <pubDate>Tue, 07 Jan 2025 12:52:22 -0300</pubDate>
-      <guid>/post/2025/01/07/cambio-garrafa-itu/</guid>
+      <guid>//localhost:1313/post/2025/01/07/cambio-garrafa-itu/</guid>
       <description>&lt;p&gt;Primero hay que cerrar la garrafa.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cerra la garrafa.&lt;/li&gt;&#xA;&lt;li&gt;Desajustá la tuerca vertical, NUNCA toques el regulador, sacá la manguera. El redublador no se saca.&lt;/li&gt;&#xA;&lt;li&gt;Y sacar el candado.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Poner la garrafa.&lt;/p&gt;&#xA;&lt;h4 id=&#34;video-en-youtube&#34;&gt;Video en YouTube&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=kDzWqJHyg4c&#34;&gt;https://www.youtube.com/watch?v=kDzWqJHyg4c&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;video-en-invidious&#34;&gt;Video en Invidious&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://redirect.invidious.io/watch?v=kDzWqJHyg4c&#34;&gt;https://redirect.invidious.io/watch?v=kDzWqJHyg4c&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fotocelda</title>
-      <link>/post/2025/01/06/fotocelda/</link>
+      <link>//localhost:1313/post/2025/01/06/fotocelda/</link>
       <pubDate>Mon, 06 Jan 2025 19:55:42 -0300</pubDate>
-      <guid>/post/2025/01/06/fotocelda/</guid>
+      <guid>//localhost:1313/post/2025/01/06/fotocelda/</guid>
       <description>&lt;p&gt;La fotocelda se dañó &amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nos quedamos sin señal de canales</title>
-      <link>/post/2025/01/05/nos-quedamos-sin-se%C3%B1al-de-canales/</link>
+      <link>//localhost:1313/post/2025/01/05/nos-quedamos-sin-se%C3%B1al-de-canales/</link>
       <pubDate>Sun, 05 Jan 2025 17:59:21 -0300</pubDate>
-      <guid>/post/2025/01/05/nos-quedamos-sin-se%C3%B1al-de-canales/</guid>
+      <guid>//localhost:1313/post/2025/01/05/nos-quedamos-sin-se%C3%B1al-de-canales/</guid>
       <description>&lt;p&gt;Al parecer todos pasaron a HD o la antena dejó de funcionar.&#xA;El único que anda es el canal la Rioja: 30/11/2024.&lt;/p&gt;&#xA;&lt;p&gt;12187 Megahertz (12 GHertz) vertical 4790 kilociclo por segundo es la velocidad de los datos.&lt;/p&gt;&#xA;&lt;p&gt;Polarización vertical.&lt;/p&gt;&#xA;&lt;p&gt;En ese transporder hay muchos canales.&lt;/p&gt;&#xA;&lt;p&gt;En esa frecuencia le multiplicas por el generador que esta allá por el oscilador que está en el LNB (en la punta) y ahí le deja adentro del FI esa es la que decodifica el receptor. Todos los receptores decodifican la frecuencia intermedia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Heladera no enfría: está sucia</title>
-      <link>/post/2024/12/30/heladera-no-enfr%C3%ADa-est%C3%A1-sucia/</link>
+      <link>//localhost:1313/post/2024/12/30/heladera-no-enfr%C3%ADa-est%C3%A1-sucia/</link>
       <pubDate>Mon, 30 Dec 2024 10:23:49 -0300</pubDate>
-      <guid>/post/2024/12/30/heladera-no-enfr%C3%ADa-est%C3%A1-sucia/</guid>
+      <guid>//localhost:1313/post/2024/12/30/heladera-no-enfr%C3%ADa-est%C3%A1-sucia/</guid>
       <description>&lt;p&gt;Heladera no enfría abajo, pero arriba sí.&#xA;Cuando vos abrís arriba paraba y cerraba y se escuchaba ventilador, ahora se escucha ruido.&#xA;Este tipo de heladera tiene un solo radiador atrás.&lt;/p&gt;&#xA;&lt;p&gt;Hielo en el radiador que tapaba el conducto de abajo. Desarmó la tapa del radiador. Cuando sacó el de abajo en una compuerta mecánica con la temperatura estaba tapada de hielo y eso hacía que la compuerta quede cerrada.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rellenar hueco</title>
-      <link>/post/2024/12/10/rellenar-hueco/</link>
+      <link>//localhost:1313/post/2024/12/10/rellenar-hueco/</link>
       <pubDate>Tue, 10 Dec 2024 18:35:53 -0300</pubDate>
-      <guid>/post/2024/12/10/rellenar-hueco/</guid>
-      <description>&lt;h3 id=&#34;video-en-youtube&#34;&gt;Video en YouTube&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nGTakNS4fCk&#34;&gt;https://www.youtube.com/watch?v=nGTakNS4fCk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;video-en-invidious&#34;&gt;Video en Invidious&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://redirect.invidious.io/watch?v=nGTakNS4fCk&#34;&gt;https://redirect.invidious.io/watch?v=nGTakNS4fCk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;audio-en-archive&#34;&gt;Audio en Archive&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://archive.org/details/record-9_202412&#34;&gt;https://archive.org/details/record-9_202412&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;audio-adicional&#34;&gt;Audio adicional&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vocaroo.com/1oQzWga6s4HX&#34;&gt;https://vocaroo.com/1oQzWga6s4HX&lt;/a&gt;&#xA;&lt;a href=&#34;https://archive.org/details/tapado_canios&#34;&gt;https://archive.org/details/tapado_canios&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/tapando/tapando.jpg&#34; alt=&#34;Tapando&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/tapando/tapando2.jpg&#34; alt=&#34;Tapando&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hay que rellenar con arena y tierra.&lt;/p&gt;</description>
+      <guid>//localhost:1313/post/2024/12/10/rellenar-hueco/</guid>
+      <description>&lt;h3 id=&#34;video-en-youtube&#34;&gt;Video en YouTube&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nGTakNS4fCk&#34;&gt;https://www.youtube.com/watch?v=nGTakNS4fCk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;video-en-invidious&#34;&gt;Video en Invidious&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://redirect.invidious.io/watch?v=nGTakNS4fCk&#34;&gt;https://redirect.invidious.io/watch?v=nGTakNS4fCk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;audio-en-archive&#34;&gt;Audio en Archive&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://archive.org/details/record-9_202412&#34;&gt;https://archive.org/details/record-9_202412&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;audio-adicional&#34;&gt;Audio adicional&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vocaroo.com/1oQzWga6s4HX&#34;&gt;https://vocaroo.com/1oQzWga6s4HX&lt;/a&gt;&#xA;&lt;a href=&#34;https://archive.org/details/tapado_canios&#34;&gt;https://archive.org/details/tapado_canios&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/tapando/tapando.jpg&#34; alt=&#34;Tapando&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/tapando/tapando2.jpg&#34; alt=&#34;Tapando&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hay que rellenar con arena y tierra.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Panes ituzaingo</title>
-      <link>/post/2024/12/01/panes-ituzaingo/</link>
+      <link>//localhost:1313/post/2024/12/01/panes-ituzaingo/</link>
       <pubDate>Sun, 01 Dec 2024 12:30:06 -0300</pubDate>
-      <guid>/post/2024/12/01/panes-ituzaingo/</guid>
+      <guid>//localhost:1313/post/2024/12/01/panes-ituzaingo/</guid>
       <description>&lt;p&gt;Don Fermín no trabaja los domingos XD.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cosas llevar</title>
-      <link>/post/2024/11/30/cosas-llevar/</link>
+      <link>//localhost:1313/post/2024/11/30/cosas-llevar/</link>
       <pubDate>Sat, 30 Nov 2024 23:00:45 -0300</pubDate>
-      <guid>/post/2024/11/30/cosas-llevar/</guid>
+      <guid>//localhost:1313/post/2024/11/30/cosas-llevar/</guid>
       <description>&lt;p&gt;Tengo alzheimer.&lt;/p&gt;&#xA;&lt;p&gt;Apoyador de celular, netbook, celular, cargador de compu y celular, un cambio de ropa, guantes, desodorante, cepillo de dientes, playstation2, guitarra, parlante, cámara, prolongador, pendrive, protector bucal, cable cargador parlante extra. Remera?, esp32 wifi hacking XD, alargue de cable, la antena está rota la punta, llevar para reparar radio auto gabinete PC.&lt;/p&gt;&#xA;&lt;p&gt;TALADRO.&lt;/p&gt;&#xA;&lt;p&gt;Acordarse de la tuerquita del televisor explicado Televisores.&lt;/p&gt;&#xA;&lt;p&gt;Cuando venís mentí y decile que vas a ombú, no a Ituzaingó a lo gendarme&#39;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comprar una casa o alquilar?</title>
-      <link>/post/2024/11/24/comprar-una-casa-o-alquilar/</link>
+      <link>//localhost:1313/post/2024/11/24/comprar-una-casa-o-alquilar/</link>
       <pubDate>Sun, 24 Nov 2024 10:59:40 -0300</pubDate>
-      <guid>/post/2024/11/24/comprar-una-casa-o-alquilar/</guid>
+      <guid>//localhost:1313/post/2024/11/24/comprar-una-casa-o-alquilar/</guid>
       <description>&lt;p&gt;Los bancos están desesperados para que compres la casa porque ellos viven de dar préstamos.&lt;/p&gt;&#xA;&lt;p&gt;Si comprás es el equivalente de pagar el alquiler durante 30 años. Y no te sobra plata para invertirla en algun lado como en Bitcoin o alguna empresa estadounidense o empresa argentina como YPF, etc.&lt;/p&gt;&#xA;&lt;p&gt;Para intentar evadir la máxima cantidad de impuestos posibles hay que vivir en un auto XD&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comprar costilla</title>
-      <link>/post/2024/11/24/comprar-costilla/</link>
+      <link>//localhost:1313/post/2024/11/24/comprar-costilla/</link>
       <pubDate>Sun, 24 Nov 2024 08:50:58 -0300</pubDate>
-      <guid>/post/2024/11/24/comprar-costilla/</guid>
+      <guid>//localhost:1313/post/2024/11/24/comprar-costilla/</guid>
       <description>&lt;p&gt;El primer corte de costilla que tiene más carne tiene sobre carne y cuesta más hacer, es como la carne más alta. Es más rico del lado del hueso.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deshabilitar Google playstore</title>
-      <link>/post/2024/11/20/deshabilitar-google-playstore/</link>
+      <link>//localhost:1313/post/2024/11/20/deshabilitar-google-playstore/</link>
       <pubDate>Wed, 20 Nov 2024 10:42:49 -0300</pubDate>
-      <guid>/post/2024/11/20/deshabilitar-google-playstore/</guid>
+      <guid>//localhost:1313/post/2024/11/20/deshabilitar-google-playstore/</guid>
       <description>&lt;p&gt;Tenés que deshabilitar la play store 3 veces, deshabilitas 1 vez y aparece el icono viejo, ahí lo deshabilitas otra vez y otra vez. Recién ahí se borra, y lo podés sustituir por aurora que lo descargas desde la f-droid.&lt;/p&gt;&#xA;&lt;p&gt;Si no deshabilitas la playstore 3 veces, sola se volverá a instalar automáticamente.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aspiradora intento de arreglo</title>
-      <link>/post/2024/11/20/aspiradora-intento-de-arreglo/</link>
+      <link>//localhost:1313/post/2024/11/20/aspiradora-intento-de-arreglo/</link>
       <pubDate>Wed, 20 Nov 2024 06:38:56 -0300</pubDate>
-      <guid>/post/2024/11/20/aspiradora-intento-de-arreglo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/aspiradora.jpg&#34; alt=&#34;aspiradora&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Se cagó porque la espira tiene un aislante, pero aguanta hasta 70 80 grados.&lt;/p&gt;&#xA;&lt;p&gt;Levanta grados, porque las espiras se pusieron en corto porque el esmalte se dañó por el calor.&lt;/p&gt;&#xA;&lt;p&gt;Si querés que te dure mucho tiempo tenés que verificar que el mínimo sea el máximo, y no usarla durante mucho tiempo si es que sólo tiene 1 velocidad.&lt;/p&gt;&#xA;&lt;p&gt;Fui a bobinados Zipam y me dijieron que no hacen bobinas para ese rotor porque queda mal por la velocidad grande que tiene y se desarma, aparte tenés que balancearlo si no se te queda desfasado.&lt;/p&gt;</description>
+      <guid>//localhost:1313/post/2024/11/20/aspiradora-intento-de-arreglo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/aspiradora.jpg&#34; alt=&#34;aspiradora&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Se cagó porque la espira tiene un aislante, pero aguanta hasta 70 80 grados.&lt;/p&gt;&#xA;&lt;p&gt;Levanta grados, porque las espiras se pusieron en corto porque el esmalte se dañó por el calor.&lt;/p&gt;&#xA;&lt;p&gt;Si querés que te dure mucho tiempo tenés que verificar que el mínimo sea el máximo, y no usarla durante mucho tiempo si es que sólo tiene 1 velocidad.&lt;/p&gt;&#xA;&lt;p&gt;Fui a bobinados Zipam y me dijieron que no hacen bobinas para ese rotor porque queda mal por la velocidad grande que tiene y se desarma, aparte tenés que balancearlo si no se te queda desfasado.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Documentos llevar</title>
-      <link>/post/2024/11/20/documentos-llevar/</link>
+      <link>//localhost:1313/post/2024/11/20/documentos-llevar/</link>
       <pubDate>Wed, 20 Nov 2024 06:04:06 -0300</pubDate>
-      <guid>/post/2024/11/20/documentos-llevar/</guid>
+      <guid>//localhost:1313/post/2024/11/20/documentos-llevar/</guid>
       <description>&lt;p&gt;Siempre me olvido alguno que otro documento.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Learn russian</title>
-      <link>/post/2024/11/19/learn-russian/</link>
+      <link>//localhost:1313/post/2024/11/19/learn-russian/</link>
       <pubDate>Tue, 19 Nov 2024 16:55:03 -0300</pubDate>
-      <guid>/post/2024/11/19/learn-russian/</guid>
+      <guid>//localhost:1313/post/2024/11/19/learn-russian/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://lingua.com/russian/reading/#exercises&#34;&gt;https://lingua.com/russian/reading/#exercises&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://lingua.com/russian/reading/moja-sem-ja/&#34;&gt;https://lingua.com/russian/reading/moja-sem-ja/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Moя ceмья&lt;/p&gt;&#xA;&lt;p&gt;У мeня бoльшaя ceмья из шecти чeлoвeĸ: я, мaмa, πaπa, cтapшaя cecтpa, бaбyшĸa и дeдyшĸa. Mы&#xA;живeм вce вмecтe c coбaĸoй Бимoм и ĸoшĸoй Mypĸoй в бoльшoм дoмe в дepeвнe. Moй πaπa вcтaeт&#xA;paньшe вcex, πoтoмy чтo eмy paнo нa paбoтy. Oн paбoтaeт дoĸтopoм. Oбычнo бaбyшĸa гoтoвит нaм&#xA;зaвтpaĸ. Я oбoжaю oвcянyю ĸaшy, a мoя cecтpa Aня - блины.&lt;/p&gt;&#xA;&lt;p&gt;Πocлe зaвтpaĸa мы coбиpaeмcя и идeм в шĸoлy. Moя cecтpa yчитcя в πятoм ĸлacce, a я - вo втopoм.&#xA;Mы любим yчитьcя и игpaть c дpyзьями. Бoльшe вceгo я люблю гeoгpaфию. Koгдa мы πpиxoдим дoмoй из&#xA;шĸoлы, мы cмoтpим тeлeвизop, a πoтoм yжинaeм и дeлaeм ypoĸи. Инoгдa мы πoмoгaeм бaбyшĸe и мaмe в&#xA;oгopoдe, гдe oни выpaщивaют oвoщи и фpyĸты.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Casi me la creo</title>
-      <link>/post/2024/09/10/casi-me-la-creo/</link>
+      <link>//localhost:1313/post/2024/09/10/casi-me-la-creo/</link>
       <pubDate>Tue, 10 Sep 2024 04:08:10 -0300</pubDate>
-      <guid>/post/2024/09/10/casi-me-la-creo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/tomrocks/math1.jpg&#34; alt=&#34;3+3x3-3+3&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Video: &lt;a href=&#34;https://youtube.com/watch?v=NMyrWohumsE&#34;&gt;https://youtube.com/watch?v=NMyrWohumsE&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Tom Rocks Maths es un doctor en matemáticas de la universidad de Oxford, inglaterra. Hizo un video reaccionando a preguntas memes de matemática y contestó una mal APROPÓSITO, pero yo casi me la creí.&lt;/p&gt;&#xA;&lt;p&gt;La pregunta se trataba de saber el orden jerárquico de las operaciones aritméticas.&#xA;Es decir, ¿qué se hace primero la suma, la división, la resta, la multiplicación?&#xA;El tipo contestó mal la pregunta apropósito y termina diciendo que es un problema de notación, es decir, el que tiene el problema es el que escribió la expresión de una forma ambigua, la matemática te da todas las herramientas para que puedas expresarte de forma exacta.&lt;/p&gt;</description>
+      <guid>//localhost:1313/post/2024/09/10/casi-me-la-creo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/tomrocks/math1.jpg&#34; alt=&#34;3+3x3-3+3&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Video: &lt;a href=&#34;https://youtube.com/watch?v=NMyrWohumsE&#34;&gt;https://youtube.com/watch?v=NMyrWohumsE&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Tom Rocks Maths es un doctor en matemáticas de la universidad de Oxford, inglaterra. Hizo un video reaccionando a preguntas memes de matemática y contestó una mal APROPÓSITO, pero yo casi me la creí.&lt;/p&gt;&#xA;&lt;p&gt;La pregunta se trataba de saber el orden jerárquico de las operaciones aritméticas.&#xA;Es decir, ¿qué se hace primero la suma, la división, la resta, la multiplicación?&#xA;El tipo contestó mal la pregunta apropósito y termina diciendo que es un problema de notación, es decir, el que tiene el problema es el que escribió la expresión de una forma ambigua, la matemática te da todas las herramientas para que puedas expresarte de forma exacta.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Destapando caños</title>
-      <link>/post/2024/09/10/destapando-ca%C3%B1os/</link>
+      <link>//localhost:1313/post/2024/09/10/destapando-ca%C3%B1os/</link>
       <pubDate>Tue, 10 Sep 2024 02:57:55 -0300</pubDate>
-      <guid>/post/2024/09/10/destapando-ca%C3%B1os/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/destapando/IMG_20240909_095623725.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_095646407.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_095654868.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_095658904.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_095659664.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_095722963_HDR.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_095856914.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_095857930.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_095905248.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_095908668.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_100006551.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_100018747.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_100025266.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_100120526.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_100134578.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;/destapando/IMG_20240909_102538916.jpg&#34; alt=&#34;destapando&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sí, el baño rebozó.&lt;/p&gt;&#xA;&lt;p&gt;Se tapó el baño pero no el inodoro sino más adelante del piso para abajo por eso reboza.&lt;/p&gt;&#xA;&lt;p&gt;Inodoro posee trampa de agua, no se puede meter cable por inodoro.&lt;/p&gt;&#xA;&lt;p&gt;Causa del problema: calcio del jabón del lavarropas. Este problema sucedió porque tiene poca pendiente, no tiene ni pendiente &lt;strong&gt;está a nivel&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Usamos para esta tarea: cable negro largo para destapar, valde de agua.&lt;/p&gt;&#xA;&lt;p&gt;Primero tenés que destapar para la salida (para abajo).&lt;br&gt;&#xA;Fijarse si hace ruido el tapón blanco al meter mangera por el otro lado.&lt;/p&gt;</description>
+      <guid>//localhost:1313/post/2024/09/10/destapando-ca%C3%B1os/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_095623725.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_095646407.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_095654868.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_095658904.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_095659664.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_095722963_HDR.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_095856914.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_095857930.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_095905248.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_095908668.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_100006551.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_100018747.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_100025266.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_100120526.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_100134578.jpg&#34; alt=&#34;destapando&#34;&gt;&#xA;&lt;img src=&#34;//localhost:1313/destapando/IMG_20240909_102538916.jpg&#34; alt=&#34;destapando&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sí, el baño rebozó.&lt;/p&gt;&#xA;&lt;p&gt;Se tapó el baño pero no el inodoro sino más adelante del piso para abajo por eso reboza.&lt;/p&gt;&#xA;&lt;p&gt;Inodoro posee trampa de agua, no se puede meter cable por inodoro.&lt;/p&gt;&#xA;&lt;p&gt;Causa del problema: calcio del jabón del lavarropas. Este problema sucedió porque tiene poca pendiente, no tiene ni pendiente &lt;strong&gt;está a nivel&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Usamos para esta tarea: cable negro largo para destapar, valde de agua.&lt;/p&gt;&#xA;&lt;p&gt;Primero tenés que destapar para la salida (para abajo).&lt;br&gt;&#xA;Fijarse si hace ruido el tapón blanco al meter mangera por el otro lado.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bienvenidos</title>
-      <link>/post/2024/08/03/bienvenidos/</link>
+      <link>//localhost:1313/post/2024/08/03/bienvenidos/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/post/2024/08/03/bienvenidos/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/me_playa.png&#34; alt=&#34;Mi cara&#34;&gt;&#xA;Bienvenidos sean, pronto estaré publicando más cosas.&lt;/p&gt;</description>
+      <guid>//localhost:1313/post/2024/08/03/bienvenidos/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/me_playa.png&#34; alt=&#34;Mi cara&#34;&gt;&#xA;Bienvenidos sean, pronto estaré publicando más cosas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Horno Eléctrico</title>
-      <link>/post/1/01/01/horno-el%C3%A9ctrico/</link>
+      <link>//localhost:1313/post/1/01/01/horno-el%C3%A9ctrico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/1/01/01/horno-el%C3%A9ctrico/</guid>
+      <guid>//localhost:1313/post/1/01/01/horno-el%C3%A9ctrico/</guid>
       <description>&lt;h4 id=&#34;video-en-youtube&#34;&gt;Video en YouTube&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=LFUrBPmHH9g&#34;&gt;https://www.youtube.com/watch?v=LFUrBPmHH9g&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on Imlauer</title>
-    <link>/categories/math/</link>
+    <link>//localhost:1313/categories/math/</link>
     <description>Recent content in Math on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Sep 2024 04:08:10 -0300</lastBuildDate>
-    <atom:link href="/categories/math/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Casi me la creo</title>
-      <link>/post/2024/09/10/casi-me-la-creo/</link>
+      <link>//localhost:1313/post/2024/09/10/casi-me-la-creo/</link>
       <pubDate>Tue, 10 Sep 2024 04:08:10 -0300</pubDate>
-      <guid>/post/2024/09/10/casi-me-la-creo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/tomrocks/math1.jpg&#34; alt=&#34;3+3x3-3+3&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Video: &lt;a href=&#34;https://youtube.com/watch?v=NMyrWohumsE&#34;&gt;https://youtube.com/watch?v=NMyrWohumsE&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Tom Rocks Maths es un doctor en matemáticas de la universidad de Oxford, inglaterra. Hizo un video reaccionando a preguntas memes de matemática y contestó una mal APROPÓSITO, pero yo casi me la creí.&lt;/p&gt;&#xA;&lt;p&gt;La pregunta se trataba de saber el orden jerárquico de las operaciones aritméticas.&#xA;Es decir, ¿qué se hace primero la suma, la división, la resta, la multiplicación?&#xA;El tipo contestó mal la pregunta apropósito y termina diciendo que es un problema de notación, es decir, el que tiene el problema es el que escribió la expresión de una forma ambigua, la matemática te da todas las herramientas para que puedas expresarte de forma exacta.&lt;/p&gt;</description>
+      <guid>//localhost:1313/post/2024/09/10/casi-me-la-creo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/tomrocks/math1.jpg&#34; alt=&#34;3+3x3-3+3&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Video: &lt;a href=&#34;https://youtube.com/watch?v=NMyrWohumsE&#34;&gt;https://youtube.com/watch?v=NMyrWohumsE&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Tom Rocks Maths es un doctor en matemáticas de la universidad de Oxford, inglaterra. Hizo un video reaccionando a preguntas memes de matemática y contestó una mal APROPÓSITO, pero yo casi me la creí.&lt;/p&gt;&#xA;&lt;p&gt;La pregunta se trataba de saber el orden jerárquico de las operaciones aritméticas.&#xA;Es decir, ¿qué se hace primero la suma, la división, la resta, la multiplicación?&#xA;El tipo contestó mal la pregunta apropósito y termina diciendo que es un problema de notación, es decir, el que tiene el problema es el que escribió la expresión de una forma ambigua, la matemática te da todas las herramientas para que puedas expresarte de forma exacta.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
