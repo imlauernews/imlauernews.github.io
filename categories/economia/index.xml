@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economia on Imlauer</title>
-    <link>//localhost:1313/categories/economia/</link>
+    <link>/categories/economia/</link>
     <description>Recent content in Economia on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Nov 2024 10:59:40 -0300</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/economia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/economia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comprar una casa o alquilar?</title>
-      <link>//localhost:1313/post/2024/11/24/comprar-una-casa-o-alquilar/</link>
+      <link>/post/2024/11/24/comprar-una-casa-o-alquilar/</link>
       <pubDate>Sun, 24 Nov 2024 10:59:40 -0300</pubDate>
-      <guid>//localhost:1313/post/2024/11/24/comprar-una-casa-o-alquilar/</guid>
+      <guid>/post/2024/11/24/comprar-una-casa-o-alquilar/</guid>
       <description>&lt;p&gt;Los bancos están desesperados para que compres la casa porque ellos viven de dar préstamos.&lt;/p&gt;&#xA;&lt;p&gt;Si comprás es el equivalente de pagar el alquiler durante 30 años. Y no te sobra plata para invertirla en algun lado como en Bitcoin o alguna empresa estadounidense o empresa argentina como YPF, etc.&lt;/p&gt;&#xA;&lt;p&gt;Para intentar evadir la máxima cantidad de impuestos posibles hay que vivir en un auto XD&lt;/p&gt;</description>
     </item>
   </channel>

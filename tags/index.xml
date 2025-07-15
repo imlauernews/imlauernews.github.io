@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Imlauer</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Feb 2025 20:12:57 -0300</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reparacion</title>
-      <link>//localhost:1313/tags/reparacion/</link>
+      <link>/tags/reparacion/</link>
       <pubDate>Sun, 02 Feb 2025 20:12:57 -0300</pubDate>
-      <guid>//localhost:1313/tags/reparacion/</guid>
+      <guid>/tags/reparacion/</guid>
       <description></description>
     </item>
     <item>
       <title>Caño</title>
-      <link>//localhost:1313/tags/ca%C3%B1o/</link>
+      <link>/tags/ca%C3%B1o/</link>
       <pubDate>Sun, 02 Feb 2025 13:37:28 -0300</pubDate>
-      <guid>//localhost:1313/tags/ca%C3%B1o/</guid>
+      <guid>/tags/ca%C3%B1o/</guid>
       <description></description>
     </item>
     <item>
       <title>Garrafa</title>
-      <link>//localhost:1313/tags/garrafa/</link>
+      <link>/tags/garrafa/</link>
       <pubDate>Thu, 30 Jan 2025 11:10:33 -0300</pubDate>
-      <guid>//localhost:1313/tags/garrafa/</guid>
+      <guid>/tags/garrafa/</guid>
       <description></description>
     </item>
     <item>
       <title>Temperatura</title>
-      <link>//localhost:1313/tags/temperatura/</link>
+      <link>/tags/temperatura/</link>
       <pubDate>Fri, 24 Jan 2025 10:25:54 -0300</pubDate>
-      <guid>//localhost:1313/tags/temperatura/</guid>
+      <guid>/tags/temperatura/</guid>
       <description></description>
     </item>
     <item>
       <title>Fotocelda</title>
-      <link>//localhost:1313/tags/fotocelda/</link>
+      <link>/tags/fotocelda/</link>
       <pubDate>Mon, 06 Jan 2025 19:55:42 -0300</pubDate>
-      <guid>//localhost:1313/tags/fotocelda/</guid>
+      <guid>/tags/fotocelda/</guid>
       <description></description>
     </item>
     <item>
       <title>Televisor</title>
-      <link>//localhost:1313/tags/televisor/</link>
+      <link>/tags/televisor/</link>
       <pubDate>Sun, 05 Jan 2025 17:59:21 -0300</pubDate>
-      <guid>//localhost:1313/tags/televisor/</guid>
+      <guid>/tags/televisor/</guid>
       <description></description>
     </item>
     <item>
       <title>Rellenar</title>
-      <link>//localhost:1313/tags/rellenar/</link>
+      <link>/tags/rellenar/</link>
       <pubDate>Tue, 10 Dec 2024 18:35:53 -0300</pubDate>
-      <guid>//localhost:1313/tags/rellenar/</guid>
+      <guid>/tags/rellenar/</guid>
       <description></description>
     </item>
     <item>
       <title>Comida</title>
-      <link>//localhost:1313/tags/comida/</link>
+      <link>/tags/comida/</link>
       <pubDate>Sun, 01 Dec 2024 12:30:06 -0300</pubDate>
-      <guid>//localhost:1313/tags/comida/</guid>
+      <guid>/tags/comida/</guid>
       <description></description>
     </item>
     <item>
       <title>Llevar</title>
-      <link>//localhost:1313/tags/llevar/</link>
+      <link>/tags/llevar/</link>
       <pubDate>Sat, 30 Nov 2024 23:00:45 -0300</pubDate>
-      <guid>//localhost:1313/tags/llevar/</guid>
+      <guid>/tags/llevar/</guid>
       <description></description>
     </item>
     <item>
       <title>Scam</title>
-      <link>//localhost:1313/tags/scam/</link>
+      <link>/tags/scam/</link>
       <pubDate>Sun, 24 Nov 2024 10:59:40 -0300</pubDate>
-      <guid>//localhost:1313/tags/scam/</guid>
+      <guid>/tags/scam/</guid>
       <description></description>
     </item>
     <item>
       <title>Playstore</title>
-      <link>//localhost:1313/tags/playstore/</link>
+      <link>/tags/playstore/</link>
       <pubDate>Wed, 20 Nov 2024 10:42:49 -0300</pubDate>
-      <guid>//localhost:1313/tags/playstore/</guid>
+      <guid>/tags/playstore/</guid>
       <description></description>
     </item>
     <item>
       <title>Aspiradora</title>
-      <link>//localhost:1313/tags/aspiradora/</link>
+      <link>/tags/aspiradora/</link>
       <pubDate>Wed, 20 Nov 2024 06:38:56 -0300</pubDate>
-      <guid>//localhost:1313/tags/aspiradora/</guid>
+      <guid>/tags/aspiradora/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>//localhost:1313/tags/math/</link>
+      <link>/tags/math/</link>
       <pubDate>Tue, 10 Sep 2024 04:08:10 -0300</pubDate>
-      <guid>//localhost:1313/tags/math/</guid>
+      <guid>/tags/math/</guid>
       <description></description>
     </item>
     <item>
       <title>Limpieza</title>
-      <link>//localhost:1313/tags/limpieza/</link>
+      <link>/tags/limpieza/</link>
       <pubDate>Tue, 10 Sep 2024 02:57:55 -0300</pubDate>
-      <guid>//localhost:1313/tags/limpieza/</guid>
+      <guid>/tags/limpieza/</guid>
       <description></description>
     </item>
     <item>
       <title>Welcome</title>
-      <link>//localhost:1313/tags/welcome/</link>
+      <link>/tags/welcome/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/welcome/</guid>
+      <guid>/tags/welcome/</guid>
       <description></description>
     </item>
     <item>
       <title>Horno</title>
-      <link>//localhost:1313/tags/horno/</link>
+      <link>/tags/horno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/horno/</guid>
+      <guid>/tags/horno/</guid>
       <description></description>
     </item>
   </channel>

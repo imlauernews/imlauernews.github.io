@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Comida on Imlauer</title>
-    <link>//localhost:1313/categories/comida/</link>
+    <link>/categories/comida/</link>
     <description>Recent content in Comida on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Nov 2024 08:50:58 -0300</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/comida/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/comida/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comprar costilla</title>
-      <link>//localhost:1313/post/2024/11/24/comprar-costilla/</link>
+      <link>/post/2024/11/24/comprar-costilla/</link>
       <pubDate>Sun, 24 Nov 2024 08:50:58 -0300</pubDate>
-      <guid>//localhost:1313/post/2024/11/24/comprar-costilla/</guid>
+      <guid>/post/2024/11/24/comprar-costilla/</guid>
       <description>&lt;p&gt;El primer corte de costilla que tiene más carne tiene sobre carne y cuesta más hacer, es como la carne más alta. Es más rico del lado del hueso.&lt;/p&gt;</description>
     </item>
   </channel>

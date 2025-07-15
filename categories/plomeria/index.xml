@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plomeria on Imlauer</title>
-    <link>//localhost:1313/categories/plomeria/</link>
+    <link>/categories/plomeria/</link>
     <description>Recent content in Plomeria on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2024 18:35:53 -0300</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/plomeria/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/plomeria/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rellenar hueco</title>
-      <link>//localhost:1313/post/2024/12/10/rellenar-hueco/</link>
+      <link>/post/2024/12/10/rellenar-hueco/</link>
       <pubDate>Tue, 10 Dec 2024 18:35:53 -0300</pubDate>
-      <guid>//localhost:1313/post/2024/12/10/rellenar-hueco/</guid>
-      <description>&lt;h3 id=&#34;video-en-youtube&#34;&gt;Video en YouTube&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nGTakNS4fCk&#34;&gt;https://www.youtube.com/watch?v=nGTakNS4fCk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;video-en-invidious&#34;&gt;Video en Invidious&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://redirect.invidious.io/watch?v=nGTakNS4fCk&#34;&gt;https://redirect.invidious.io/watch?v=nGTakNS4fCk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;audio-en-archive&#34;&gt;Audio en Archive&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://archive.org/details/record-9_202412&#34;&gt;https://archive.org/details/record-9_202412&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;audio-adicional&#34;&gt;Audio adicional&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vocaroo.com/1oQzWga6s4HX&#34;&gt;https://vocaroo.com/1oQzWga6s4HX&lt;/a&gt;&#xA;&lt;a href=&#34;https://archive.org/details/tapado_canios&#34;&gt;https://archive.org/details/tapado_canios&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/tapando/tapando.jpg&#34; alt=&#34;Tapando&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/tapando/tapando2.jpg&#34; alt=&#34;Tapando&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hay que rellenar con arena y tierra.&lt;/p&gt;</description>
+      <guid>/post/2024/12/10/rellenar-hueco/</guid>
+      <description>&lt;h3 id=&#34;video-en-youtube&#34;&gt;Video en YouTube&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nGTakNS4fCk&#34;&gt;https://www.youtube.com/watch?v=nGTakNS4fCk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;video-en-invidious&#34;&gt;Video en Invidious&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://redirect.invidious.io/watch?v=nGTakNS4fCk&#34;&gt;https://redirect.invidious.io/watch?v=nGTakNS4fCk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;audio-en-archive&#34;&gt;Audio en Archive&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://archive.org/details/record-9_202412&#34;&gt;https://archive.org/details/record-9_202412&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;audio-adicional&#34;&gt;Audio adicional&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vocaroo.com/1oQzWga6s4HX&#34;&gt;https://vocaroo.com/1oQzWga6s4HX&lt;/a&gt;&#xA;&lt;a href=&#34;https://archive.org/details/tapado_canios&#34;&gt;https://archive.org/details/tapado_canios&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/tapando/tapando.jpg&#34; alt=&#34;Tapando&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/tapando/tapando2.jpg&#34; alt=&#34;Tapando&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hay que rellenar con arena y tierra.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

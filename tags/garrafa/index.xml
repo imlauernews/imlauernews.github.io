@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Garrafa on Imlauer</title>
-    <link>//localhost:1313/tags/garrafa/</link>
+    <link>/tags/garrafa/</link>
     <description>Recent content in Garrafa on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jan 2025 11:10:33 -0300</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/garrafa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/garrafa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Garrafa cambio</title>
-      <link>//localhost:1313/post/2025/01/30/garrafa-cambio/</link>
+      <link>/post/2025/01/30/garrafa-cambio/</link>
       <pubDate>Thu, 30 Jan 2025 11:10:33 -0300</pubDate>
-      <guid>//localhost:1313/post/2025/01/30/garrafa-cambio/</guid>
+      <guid>/post/2025/01/30/garrafa-cambio/</guid>
       <description>&lt;p&gt;Te enseñamos como cambiar garrafa.&lt;/p&gt;&#xA;&lt;h4 id=&#34;youtube&#34;&gt;YouTube:&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7bPoh7zbkmU&#34;&gt;https://www.youtube.com/watch?v=7bPoh7zbkmU&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cambio garrafa itu</title>
-      <link>//localhost:1313/post/2025/01/07/cambio-garrafa-itu/</link>
+      <link>/post/2025/01/07/cambio-garrafa-itu/</link>
       <pubDate>Tue, 07 Jan 2025 12:52:22 -0300</pubDate>
-      <guid>//localhost:1313/post/2025/01/07/cambio-garrafa-itu/</guid>
+      <guid>/post/2025/01/07/cambio-garrafa-itu/</guid>
       <description>&lt;p&gt;Primero hay que cerrar la garrafa.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cerra la garrafa.&lt;/li&gt;&#xA;&lt;li&gt;Desajustá la tuerca vertical, NUNCA toques el regulador, sacá la manguera. El redublador no se saca.&lt;/li&gt;&#xA;&lt;li&gt;Y sacar el candado.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Poner la garrafa.&lt;/p&gt;&#xA;&lt;h4 id=&#34;video-en-youtube&#34;&gt;Video en YouTube&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=kDzWqJHyg4c&#34;&gt;https://www.youtube.com/watch?v=kDzWqJHyg4c&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;video-en-invidious&#34;&gt;Video en Invidious&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://redirect.invidious.io/watch?v=kDzWqJHyg4c&#34;&gt;https://redirect.invidious.io/watch?v=kDzWqJHyg4c&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
