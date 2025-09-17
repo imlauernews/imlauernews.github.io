@@ -6,15 +6,8 @@
     <description>Recent content in Tags on Imlauer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 2025 14:45:38 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 20:12:57 -0300</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pelea</title>
-      <link>/tags/pelea/</link>
-      <pubDate>Wed, 17 Sep 2025 14:45:38 -0300</pubDate>
-      <guid>/tags/pelea/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Reparacion</title>
       <link>/tags/reparacion/</link>
@@ -125,6 +118,13 @@
       <link>/tags/horno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/horno/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pelea</title>
+      <link>/tags/pelea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/pelea/</guid>
       <description></description>
     </item>
   </channel>
